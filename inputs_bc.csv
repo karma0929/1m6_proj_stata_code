@@ -1,0 +1,2 @@
+career,location,time unit,T discretionary hours,wage hourly,V daily,fixed cost if work,variable cost per hour,alpha,wage source url,V notes,costs notes,E,U,NotLF,Pop,laus source url
+Data Analyst,"Los Angeles, CA",daily,16,53.45,12,6,2,0.6,https://www.bls.gov/oes/tables.htm,Passive income + small investment return ~= 12/day,Parking/lunch ~= 6/day; commute ~= 2/hr,,,,,
